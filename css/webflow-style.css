@@ -2129,6 +2129,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .h1-main {
+  color: #00001a;
   font-family: Inter, sans-serif;
   font-size: 56px;
   font-weight: 800;
@@ -2196,6 +2197,10 @@ textarea.w-input, textarea.w-select {
   font-family: Lato, sans-serif;
   font-size: 20px;
   font-weight: 900;
+}
+
+.heading-2:hover {
+  color: #e9aa52;
 }
 
 .paragraph {
@@ -2296,6 +2301,10 @@ textarea.w-input, textarea.w-select {
   font-family: Inter, sans-serif;
   font-size: 15px;
   font-weight: 500;
+}
+
+.link-menu:hover {
+  color: #f15d51;
 }
 
 .menu-button {
